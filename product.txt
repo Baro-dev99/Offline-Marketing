@@ -1,0 +1,19 @@
+
+1000 mouse 55.00 75 electronics
+1001 mousepd 57.00 5 electronics
+1002 bmw 577.00 5 machines
+1003 lcd 47.00 8 electronics
+1004 nisan 44.00 43 machines
+1005 mac 88.00 7 electronics
+1006 lenovo 555.00 70 electronics
+1007 bently 741.00 4 cars
+1008 charger 754.00 6 electronics
+1009 jip 888.00 57 cars
+1010 mclaren 6849.99 1 cars
+1011 bata 2.00 3 cars
+1012 l 2.00 2 cars
+1013 os 50.00 3 cars
+1014 sel 20.00 54 machines
+1015 lo 23.00 1 electronics
+1016 ki 3.00 2 cars
+1017 no 45.00 3 os

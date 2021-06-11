@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1565001225 source:c:\users\walid\documents\code blocks projects\ds_project_2019\category.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"structures.h"
+	"categ.h"
+	"product.h"
+
+1565290346 c:\users\walid\documents\code blocks projects\ds_project_2019\structures.h
+	<stdio.h>
+	<stdlib.h>
+
+1564989852 c:\users\walid\documents\code blocks projects\ds_project_2019\categ.h
+
+1565290268 c:\users\walid\documents\code blocks projects\ds_project_2019\product.h
+	<stdio.h>
+	<stdlib.h>
+	"structures.h"
+
+1565001697 source:c:\users\walid\documents\code blocks projects\ds_project_2019\customer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"structures.h"
+	"customer.h"
+	"employee.h"
+	"product.h"
+	"categ.h"
+
+1564989852 c:\users\walid\documents\code blocks projects\ds_project_2019\customer.h
+	<stdio.h>
+	<stdlib.h>
+	"structures.h"
+
+1565290306 c:\users\walid\documents\code blocks projects\ds_project_2019\employee.h
+	<stdio.h>
+	<stdlib.h>
+	"structures.h"
+
+1565000584 source:c:\users\walid\documents\code blocks projects\ds_project_2019\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"structures.h"
+	"employee.h"
+
+1564990581 source:c:\users\walid\documents\code blocks projects\ds_project_2019\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"structures.h"
+	"employee.h"
+	"customer.h"
+	"categ.h"
+	"menu.h"
+
+1564989852 c:\users\walid\documents\code blocks projects\ds_project_2019\menu.h
+
+1565000545 source:c:\users\walid\documents\code blocks projects\ds_project_2019\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"structures.h"
+	"customer.h"
+	"employee.h"
+	"product.h"
+	"categ.h"
+	"menu.h"
+
+1565000579 source:c:\users\walid\documents\code blocks projects\ds_project_2019\product.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"structures.h"
+	"product.h"
+	"categ.h"
+
+1560855614 source:c:\users\walid\documents\code blocks projects\ds_project_2019\time.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
